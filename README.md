@@ -7,6 +7,7 @@
   - computer player makes its moves in order to win the game and to block the human player’s attempts at 1-move victory, whenever possible.
   - implemented console-based user interface and graphical user interface (GUI) for the program.
 
-![playing_game](https://github.com/915-Negrila-Iulia/Connect-Four-Game/blob/master/ConnectFour1.png?raw=true)
-
-![finished_game](https://github.com/915-Negrila-Iulia/Connect-Four-Game/blob/master/ConnectFour2.png?raw=true)
+<p float="left" align="middle">
+  <img src="https://github.com/915-Negrila-Iulia/Connect-Four-Game/blob/master/ConnectFour1.png?raw=true" width=45% />
+  <img src="https://github.com/915-Negrila-Iulia/Connect-Four-Game/blob/master/ConnectFour2.png?raw=true" width=45% /> 
+</p>
